@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717532392 source:c:\users\khadidiatou konte\onedrive\bureau\langage c\projetmots\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1717532080 c:\users\khadidiatou konte\onedrive\bureau\langage c\projetmots\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
